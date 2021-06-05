@@ -3,4 +3,4 @@
 <br>
 <br>
 
-<a href="https://ankitagupta454.github.io/CodePen_Clone/"> ***Try It Now*** </a>
+<a href="https://ankitagupta454.github.io/CodePen_Clone/" target="_blank"> ***Try It Now*** </a>
